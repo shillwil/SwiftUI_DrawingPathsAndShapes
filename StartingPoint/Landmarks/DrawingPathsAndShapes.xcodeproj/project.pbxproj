@@ -114,10 +114,10 @@
 		B7394864229F194000C47603 /* Landmarks */ = {
 			isa = PBXGroup;
 			children = (
-				A20F36E323DF54A300E16E9D /* Badge.swift */,
 				B739487E229F282200C47603 /* Models */,
 				B7394865229F194000C47603 /* AppDelegate.swift */,
 				B7394867229F194000C47603 /* SceneDelegate.swift */,
+				A20F36E323DF54A300E16E9D /* Badge.swift */,
 				B73948A0229F2E1F00C47603 /* LandmarkList.swift */,
 				B739489E229F2D9700C47603 /* LandmarkRow.swift */,
 				B7394869229F194000C47603 /* LandmarkDetail.swift */,
